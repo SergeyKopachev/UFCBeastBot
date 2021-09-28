@@ -1,0 +1,3 @@
+QIWI_WALLET = ''
+QIWI_TOKEN = ''
+QIWI_P_PUBLIC = ''
